@@ -1,3 +1,4 @@
+#Producer-Consumer
 Producer Consumer web application to show how Producer Consumer works ﻿
 
 Concurrency
@@ -31,42 +32,3 @@ Design patterns used
 
   3.Observer : when a machine producer produces roducts, it notifies the machine consumer to consume it and vice versa
 
-
-
-
-UML diagram
-
-
-image
-
-
-Videos link :
-
-
-https://drive.google.com/drive/u/1/folders/1f96pwhqpoD3DgM_A2ce4AMrxZUf0pTqD
-
-
-How to Run code
-
-
-  1.run backend at local host 8080
-
-  2.run frontend at local host 8081**
-
-
-
-
-Simple runs Screenshots**
-
-
-
-First simple
-
-
-image
-
-
-*Second simple*
-![image](https://user-images.githubusercontent.com/59110598/126704885-bdda57fb-629f-4dee-ba3b-5d3066e28050.png)
-*Third simple*
-![image](https://user-images.githubusercontent.com/59110598/126704909-58c827cd-e1e7-4881-81d8-5cdc8b727961.png)
