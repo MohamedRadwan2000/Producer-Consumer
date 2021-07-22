@@ -42,7 +42,7 @@ https://drive.google.com/drive/u/1/folders/1f96pwhqpoD3DgM_A2ce4AMrxZUf0pTqD
 
   2.run frontend at local host 8081
   
-  # Simple runs Screenshots
+  # Sample runs Screenshots
   ![image](https://user-images.githubusercontent.com/60818439/126720410-55b401b0-27b7-40d4-9110-e31958a9445d.png)
 
 
